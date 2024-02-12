@@ -17,4 +17,5 @@ void ClearScene::Update()
 void ClearScene::Draw()
 {
 	Novice::ScreenPrintf(1280 / 2, 720 / 2, "ClearScene");
+
 }
